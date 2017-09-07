@@ -1,0 +1,5 @@
+<resources>
+    <string name="action_reset">Reset</string>
+    <string name="hint_payment_result">Breakdown of cash to dispense is:</string>
+    <string name="label_total">Total: R%.2f</string>
+</resources>

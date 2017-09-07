@@ -1,0 +1,7 @@
+<resources>
+    <string name="prompt_amount">R:</string>
+    <string name="action_submit">Submit</string>
+    <string name="error_invalid_amount">Please specify a rand cash note amount equal or greater than the amount due.</string>
+    <string name="hint_payment">Capture rand note denomination:</string>
+    <string name="label_amount_due">Amount due: R%.2f</string>
+</resources>

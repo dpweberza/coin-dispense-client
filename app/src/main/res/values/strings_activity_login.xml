@@ -1,0 +1,9 @@
+<resources>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="error_invalid_username">This username is too short</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_credentials">Incorrect credentials</string>
+    <string name="hint_login">Enter your username and password:</string>
+</resources>
